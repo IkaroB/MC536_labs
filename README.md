@@ -1,2 +1,2 @@
 # Aluno
-* 'Ikaro José Urei Basso'
+* `Ikaro José Urei Basso`

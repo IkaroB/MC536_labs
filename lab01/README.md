@@ -1,8 +1,8 @@
 # Tarefa 1 sobre APIs de acesso
 
-> Coloque um link para o arquivo do notebook com a resolução da primeira tarefa (dois acessos). Ele estará dentro da pasta `notebook`.
+> ![Notebook da Tarefa 1](notebook/notebookLab01.ipynb)
 
 # Tarefa 2 sobre Engenharia Reversa
 > Coloque a imagem do PNG do seu diagrama como ilustrado abaixo (a imagem estará na pasta `image`):
 >
-> ![Diagrama de Orquestração](images/diagrama-livre.png)
+> ![Diagrama de Orquestração](images/<nome da imagem>)

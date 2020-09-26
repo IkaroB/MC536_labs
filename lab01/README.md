@@ -5,4 +5,4 @@
 # Tarefa 2 sobre Engenharia Reversa
 > Coloque a imagem do PNG do seu diagrama como ilustrado abaixo (a imagem estará na pasta `image`):
 >
-> ![Diagrama de Orquestração](images/<nome da imagem>)
+> ![Diagrama de Orquestração](images/imagem01.png)
